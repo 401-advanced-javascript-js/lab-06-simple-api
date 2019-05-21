@@ -7,7 +7,7 @@
 A simple API for a storefront selling wacky food. Built using a single JSON file and running JSON server.
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-06-simple-api/pull/1)
 
 #### Documentation
 * [API docs](https://app.swaggerhub.com/apis-docs/JagdeepSing/Simple-API/0.1#/)
