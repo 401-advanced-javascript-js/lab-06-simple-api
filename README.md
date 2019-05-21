@@ -26,3 +26,4 @@ Visit the following, [React API Client](https://codesandbox.io/s/api-client-s45o
 #### UML
 
 ![UML diagram](./assets/UML.jpeg)
+
