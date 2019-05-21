@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "Canned Goods",
+      "display_name": "Canned Goods",
+      "description": "Goods that are canned."
+    },
+    {
+      "name": "Canned Drinks",
+      "display_name": "Canned Drinks",
+      "description": "Delicious drinks that are canned."
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "Canned Goods",
+      "name": "Baked Beans",
+      "display_name": "Baked Beans",
+      "description": "Delicious Baked Beans with a fresh can smell."
+    },
+    {
+      "_id": 2,
+      "category": "Uncanned Goods",
+      "name": "Plate of Baked Beans",
+      "display_name": "Plate of Baked Beans",
+      "description": "Baked Beans on a plate, its not great but if you don't have a can opener, whatcha gonna do?"
+    },
+    {
+      "_id": 3,
+      "category": "Canned Goods",
+      "name": "Canned Plates",
+      "display_name": "Canned Plates",
+      "description": "Plates inside of a can."
+    },
+    {
+      "_id": 4,
+      "category": "Canned Goods",
+      "name": "Chicken Flavored Gum",
+      "display_name": "Chicken Flavored Gum",
+      "description": "Great for restless teeth."
+    },
+    {
+      "category": "Uncanned Goods",
+      "name": "Loose Meat",
+      "display_name": "Loose Meat",
+      "description": "Cage-free",
+      "_id": 5
+    }
+  ]
+}
