@@ -10,7 +10,7 @@ A simple API for a storefront selling wacky food. Built using a single JSON file
 * [submission PR](https://github.com/401-advanced-javascript-js/lab-06-simple-api/pull/1)
 
 #### Documentation
-* [API docs](https://app.swaggerhub.com/apis-docs/JagdeepSing/Simple-API/0.1#/)
+* [API docs](https://app.swaggerhub.com/apis-docs/JagdeepSing/Simple-API/0.1)
 
 #### Running the app
 
@@ -25,5 +25,4 @@ Visit the following, [React API Client](https://codesandbox.io/s/api-client-s45o
 
 #### UML
 
-![UML diagram](./assets/UML.jpeg)
-
+![UML diagram](./assets/uml.jpeg)
